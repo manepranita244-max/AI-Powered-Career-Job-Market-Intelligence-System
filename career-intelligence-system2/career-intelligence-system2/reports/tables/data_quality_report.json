@@ -1,0 +1,22 @@
+{
+  "raw_rows": 21936,
+  "blank_rows_removed": 10938,
+  "duplicate_rows_removed": 33,
+  "rows_after_dedup": 10965,
+  "salary_ranges_parsed": 3186,
+  "salary_removed_as_implausible": 0,
+  "rows_clean": 10965,
+  "rows_with_role_category": 10714,
+  "rows_with_skills": 8389,
+  "rows_with_experience": 10915,
+  "rows_with_location": 10465,
+  "rows_with_education": 10340,
+  "rows_with_salary": 3186,
+  "salary_disclosure_rate_pct": 29.06,
+  "unique_companies": 4925,
+  "unique_role_categories": 82,
+  "post_year_counts": {
+    "2015.0": 1635,
+    "2016.0": 9310
+  }
+}

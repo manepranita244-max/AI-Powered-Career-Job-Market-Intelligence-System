@@ -1,0 +1,14 @@
+{
+  "total_postings": 10965,
+  "unique_companies": 4925,
+  "role_categories": 82,
+  "industries": 62,
+  "cities": 56,
+  "median_exp_min": 3.0,
+  "fresher_open_pct": 15.373339441136052,
+  "salary_disclosed_pct": 29.05608755129959,
+  "median_salary_lpa": 3.5,
+  "top3_city_share_pct": 82.14046822742475,
+  "top_industry": "IT-Software / Software Services",
+  "top_industry_share_pct": 40.75695394436845
+}

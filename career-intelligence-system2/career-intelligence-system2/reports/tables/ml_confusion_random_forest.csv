@@ -1,0 +1,25 @@
+,Accounts,Admin/Maintenance/Security/Datawarehousing,Analytics & BI,Back Office/Web/Transaction Processing,Channel Sales,Corporate Sales,Creative,Engineering Design,Finance/Audit,HR/ Recruitment / IR,IT Hardware,Marketing,Medical Professional,Operations,Production/Manufacturing/Maintenance,Programming & Design,Project Management,R&D,Retail Sales,Senior Management,Site Engineering,System Design/Implementation/ERP/CRM,Teachers,Voice
+Accounts,31,0,0,2,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+Admin/Maintenance/Security/Datawarehousing,1,35,2,1,0,0,0,0,0,0,3,1,0,0,1,14,5,0,0,0,1,2,0,3
+Analytics & BI,0,0,8,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Back Office/Web/Transaction Processing,1,0,2,2,0,0,1,0,2,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2
+Channel Sales,0,0,0,0,4,1,0,0,0,1,0,0,1,0,0,0,0,0,7,0,0,0,1,0
+Corporate Sales,0,0,0,0,0,16,0,0,0,1,0,1,0,0,0,1,0,0,19,0,0,0,0,1
+Creative,0,0,0,0,0,0,12,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Engineering Design,0,0,0,0,0,0,1,15,0,0,0,0,0,0,2,2,0,1,0,0,5,0,0,0
+Finance/Audit,4,0,1,0,0,0,0,0,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+HR/ Recruitment / IR,0,0,1,0,0,0,0,0,0,73,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+IT Hardware,0,5,0,0,0,0,0,1,0,0,6,0,0,0,0,1,0,0,0,0,1,0,0,0
+Marketing,0,0,0,0,2,0,0,0,0,1,0,17,2,0,0,1,0,0,4,0,0,0,0,0
+Medical Professional,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,2,0,0,1,0,0,0,0,0
+Operations,0,1,1,2,0,0,0,0,0,1,0,0,0,3,0,0,2,0,1,0,0,0,0,1
+Production/Manufacturing/Maintenance,1,1,1,0,0,1,0,4,1,1,0,1,0,0,28,0,0,0,0,2,4,0,0,0
+Programming & Design,1,27,7,2,0,1,11,2,1,2,7,4,0,0,3,411,10,0,0,0,2,26,3,2
+Project Management,0,0,0,0,0,2,0,0,0,1,0,1,0,0,3,1,7,0,0,0,0,0,0,0
+R&D,0,0,0,1,0,0,0,1,0,0,0,0,4,0,0,1,0,3,0,0,3,0,0,0
+Retail Sales,1,1,0,1,14,24,0,1,1,2,0,9,3,2,4,0,0,0,66,0,1,0,2,5
+Senior Management,3,1,2,2,0,3,1,0,4,5,0,6,2,0,3,2,3,0,0,6,1,1,0,0
+Site Engineering,0,0,0,0,0,0,0,3,0,0,1,0,0,0,3,1,2,0,0,0,11,0,0,1
+System Design/Implementation/ERP/CRM,0,1,6,0,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,1,0,16,0,0
+Teachers,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,10,0
+Voice,4,4,0,9,2,1,0,0,1,1,0,1,0,0,1,0,0,0,3,0,0,0,0,92
